@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Welcome to Synergy Bite</code> and save to reload.
+          Welcome to Synergy Bite
         </p>
         <a
           className="App-link"
